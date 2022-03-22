@@ -1,0 +1,26 @@
+<html>
+
+<head>surya reddy </head>
+
+<title> HTML BASIC </title>
+
+<bodybg color="orange">
+
+
+<h1>college name<b></b>:st.marys college</h1>
+
+<p>place:yousfguda</p>
+
+<imgsrc="C:\Users\swaroopini\Downloads\St._Mary's_College_Logo.svg.png">
+
+<p>St Mary’s College is affiliated to Osmania University and has been re-accredited for a third-time by 
+the National Assessment and Accreditation Council (NAAC). St Mary’s College was first accredited 
+when it was just six years old (Cycle 1) and it was re-accredited (Cycle 2) five years later.
+St Mary’s College is a Christian Minority Institution, as defined by section 2(g) of the
+ National Commission for Minority Educational Institutions Act, 2004, having all Rights of Minority Educational Institutions as provided by the 
+NCMEI Act, 2004 (and as amended from time to time).</p>
+
+</body>
+
+</html>
+

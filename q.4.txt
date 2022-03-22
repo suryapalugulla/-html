@@ -1,0 +1,14 @@
+<html>
+<head>surya q.4 </head>
+<title> HTML BASIC </title>
+<body bg color="orange">
+
+<b>absolute ULSs </b>
+
+<a href="https://www.instagram.com/">
+<br></br>
+
+<a href="https://www.google.co.in/>
+
+</body>
+</html>

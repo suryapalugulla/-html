@@ -1,0 +1,40 @@
+<html>
+<head>surya q.5</head>
+<title>HTML BASIC</title>
+<body>
+
+<table border="2" cellspacing="2" align="center">
+
+<tr>
+<td>Name</td>
+<td>Contract number</td>
+<td>Country</td>
+</tr>
+
+<tr>
+<td>vishnu</td>
+<td>12345</td>
+<td>india</td>
+</tr>
+
+<tr>
+<td>james</td>
+<td>45678</td>
+<td>america</td>
+</tr>
+
+<tr>
+<td>surya</td>
+<td>12345</td>
+<td>spain</td>
+</tr>
+
+<tr>
+<td>saikiran</td>
+<td>09876</td>
+<td>srilanka</td>
+</tr>
+
+</table>
+</body>
+</html>

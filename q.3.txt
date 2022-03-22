@@ -1,0 +1,24 @@
+<html>
+<head>surya q.3 </head>
+<title> HTML BASIC </title>
+<body bg color="pirple">
+
+<h1><b>html form </b> </h1>
+<p> application form </p>
+<form>
+
+First name:<input type="text"name="First Name">
+<br></br>
+
+Last name:<input type="text"name="Last name">
+<br></br>
+
+Enter email:<input type="text"name="Enter email">
+<br></br>
+
+Date of birth:<input type="text"name="Date of birth">
+
+
+</form>
+</body>
+</html>
